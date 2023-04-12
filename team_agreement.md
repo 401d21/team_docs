@@ -14,7 +14,11 @@
 2. How can you best utilize these strengths in the execution of your project?
 3. In which professional competencies do you each want to develop greater strength?
 4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
-
+- Dominick Martin: big picture view, background in analysis, 
+- Ethan Albers: code comprehension, problem-solving, understanding other's code
+- Mike Shen: organization, big picture view
+- Sheldon Pierce: initiative, growth-mindset
+- Tre Sanders: communications
 
 ## Conflict Plan
 
@@ -24,6 +28,13 @@
 4. How will you raise concerns to members who are not adequately contributing?
 5. How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 
+Handle things democratically.
+
+Roundtable discussions, hear each other out
+
+Constructive criticism is good.  Petty criticism is bad.
+
+Escalation: individual -> team -> instructor
 
 ## Communication Plan
 
@@ -35,15 +46,41 @@
 6. What is your strategy for ensuring everyone’s voice is heard?
 7. How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
+9:00 daily standup to set goals for the day
+
+Pair / team programming for the rest of the day.
+
+4:00 end of day standup
+
+Use slack / remo
+
+Hourly breaks
+
+Communicate project and individual status to the team.
+
+After-hours: okay to slack, but no expectation for response.
 
 ## Work Plan
 
 1. How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 2. What project management tool will be used?
 
+Miro / Trello to plan
+
+Daily standups to assign and manage work.
+
+
 ## Git Process
 
 1. What components of your project will live on GitHub?
 2. How will you share the repository with your teammates?
 3. What is your Git flow?
-4. Will you be using a PR review workflow? Yes
+4. Will you be using a PR review workflow?
+
+Branches:
+- main (review required, Dominick and Mike for now, switch halfway)
+- dev (daily push to dev in PM)
+- individual branches (daily pull from dev in AM)
+
+
+
