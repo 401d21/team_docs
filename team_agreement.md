@@ -46,11 +46,11 @@ Escalation: individual -> team -> instructor
 6. What is your strategy for ensuring everyone’s voice is heard?
 7. How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
-9:00 daily standup to set goals for the day
+9:00 daily standup to set goals for the day.  Code review of any after-hours work.  Say "I", not "we", even for pair programming.
 
 Pair / team programming for the rest of the day.
 
-4:00 end of day standup
+4:00 end of day standup / code review
 
 Use slack / remo
 
@@ -65,7 +65,7 @@ After-hours: okay to slack, but no expectation for response.
 1. How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 2. What project management tool will be used?
 
-Miro / Trello to plan
+Figma / Trello to plan
 
 Daily standups to assign and manage work.
 
@@ -78,9 +78,9 @@ Daily standups to assign and manage work.
 4. Will you be using a PR review workflow?
 
 Branches:
-- main (review required, Dominick and Mike for now, switch halfway)
+- main (review required (2), Dominick and Mike for now, switch halfway)
 - dev (daily push to dev in PM)
-- individual branches (daily pull from dev in AM)
+- individual feature branches (daily pull from dev in AM)
 
 
 
